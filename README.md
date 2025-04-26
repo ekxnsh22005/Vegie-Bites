@@ -1,16 +1,10 @@
-# veg_bites
+A clean, user-friendly Flutter mobile application for ordering vegetarian Indian cuisine. Designed with simplicity and functionality in mind, VegBites connects hungry customers with a variety of pure vegetarian restaurants offering authentic Indian dishes.
 
-A new Flutter project.
+Description
+VegBites is a specialized food delivery platform focused exclusively on vegetarian Indian cuisine. The app enables users to browse through various vegetarian restaurants, explore their menus, add dishes to cart, and place orders with just a few taps.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This app is built with:
+-> Flutter framework
+-> Dart programming language
+-> Provider package for state management
+-> Custom UI components for consistent design
